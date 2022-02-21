@@ -10,7 +10,8 @@ Python application that manages user passwords and generates new passwords for t
 
 # Screenshot
 
-/home/turu/Desktop/password locker/image/Screenshot from 2022-02-21 11-44-59.png
+![Screenshot from 2022-02-21 11-44-59](https://user-images.githubusercontent.com/95218150/154948848-6b0169b1-f8b9-4ac2-968e-0c67f50191a8.png)
+
 
 # BDD
 
